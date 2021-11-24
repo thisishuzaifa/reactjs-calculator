@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-color: #0B2838;
+}
+
+.wrapper{
+  background-color:#0B2838 ;
+  width: 600px;
+  height: 800px;
+}
+
+.row{
+  display: flex;
+  width: 100%;
+}

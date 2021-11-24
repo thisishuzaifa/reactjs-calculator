@@ -1,0 +1,22 @@
+.input{
+    display: flex;
+    height: 5em;
+    flex: 1;
+    background-color: #083248;
+    outline: 0.5px solid #083248;
+    font-size: 1.5em;
+    color: seashell;
+    padding: 0.5em;
+    justify-content: flex-end;
+    font-family: 'Ubuntu Mono', monospace;
+    font-weight: bold;
+    align-items: center;
+
+
+}
+
+.operator{
+    background-color: #F2A154;
+    color: #083248;
+    
+}

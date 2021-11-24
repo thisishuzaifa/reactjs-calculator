@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
+
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+    height: 5em;
+    font-weight: light;
+    font-size: 1.5em;
+    color: #F2A154;
+    background-color: #083248;
+    font-family: 'Ubuntu Mono', monospace;
+    outline: 0.5px solid #083248;
+
+}
+
+.operator{
+    background-color: #F2A154;
+    color: #083248;
+    
+}
